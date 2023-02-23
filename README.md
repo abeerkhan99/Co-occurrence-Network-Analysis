@@ -23,9 +23,7 @@ b) Floods
 As we want to make sure the context should be the same, therefore, we will retrieve only those articles also containing the word “Pakistan”.  We will limit our data extraction to 100 articles for each term.
 
 2. Network Construction
-You have to create two a network for each term. In the co-occurrence network, each word is a node and an edge represents two words that have appeared in the same article/title of the article.
-
-You will be required to clean the data by removing stop words and performing stemming.
+You have to create two a network for each term. In the co-occurrence network, each word is a node and an edge represents two words that have appeared in the same article/title of the article. You will be required to clean the data by removing stop words and performing stemming.
 
 3. Network Analysis:
 You have to provide a comparative analysis of networks of both terms to analyze which kind of language of used in different kinds of crises. You can frame your analysis as per the following question:
