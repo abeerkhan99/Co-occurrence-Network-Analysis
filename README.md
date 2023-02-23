@@ -1,5 +1,5 @@
 # About This
-This is part of the second assignment of the CS/SDP 361/352 Social Network Analysis Fall 2022 course that was offered at Habib University. 
+This is part of the second assignment of the CS/SDP 361/352 Social Network Analysis Fall 2022 course that was offered at Habib University. This assignment was done by Abeer Khan, Maria Hunaid Samiwala, and Abeeha Zawar.
 
 ## Tasks
 
